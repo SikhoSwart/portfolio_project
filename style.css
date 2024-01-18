@@ -4,10 +4,15 @@
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
 }
+html{
+    scroll-behavior: smooth;
+}
 body{
     background: black;
     color: #fff;
 }
+
+/*------home section--------*/
 #header{
     width: 100%;
     height: 100vh;
@@ -102,7 +107,7 @@ nav ul li a:hover::after{
 
 /*-----------skills section----------*/
 #skills{
-    padding: 30px 0;
+    padding: 0px 0;
 }
 
 .skillset{
@@ -121,4 +126,138 @@ nav ul li a:hover::after{
 
 }
 
+.skillset div i{
+    font-size: 30px;
+    margin-bottom: 30px;
+}
 
+.skillset div h2{
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+
+.skillset div p{
+    font-size: 15px;
+
+}
+
+.skillset div a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 12px;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.skillset div:hover{
+    background: rgb(111, 8, 89);
+    transition: 0.45s;
+    transform: translateY(-10px);
+}
+
+/*------contact section---------*/
+.left{
+    flex-basis: 35%;
+}
+
+.right{
+    flex-basis: 60%;
+}
+
+.left p{
+    margin-top: 30px;
+}
+
+.left p i{
+    color: rgb(111, 8, 89);
+    margin-right: 15px;
+    font-size: 20px;
+}
+
+.socials{
+    margin-top: 30px;
+}
+
+.socials a{
+    text-decoration: none;
+    font-size: 30px;
+    margin-right: 15px;
+    color: #ababab;
+    display: inline-block;
+}
+
+.socials a:hover{
+    color: rgb(111, 8, 89);
+    transition: 0.45s;
+    transform: translateY(-5px);
+
+}
+
+.btn{
+    display: inline-block;
+    margin: 50px;
+    width: fit-content;
+    border: 1px solid rgb(111, 8, 89);
+    padding: 14px 50px;
+    border-radius: 8px;
+    text-decoration: none;
+    color: #fff;
+}
+ .btn:hover{
+    background: rgb(111, 8, 89);
+ }
+
+ .btn.btn2{
+    display: inline-block;
+    background: rgb(111, 8, 89);
+ }
+
+ .right form{
+    width: 100%;
+ }
+ form input, form textarea{
+    width: 100%;
+    border: 0;
+    outline: none;
+    background: #262626;
+    padding: 15px;
+    margin: 15px 0;
+    color: #fff;
+    font-size: 16px;
+    border-radius: 8px;
+ }
+
+ form btn2{
+    padding: 14px 60px;
+    font-size: 18px;
+    margin-top: 20px;
+ }
+
+ /*------Footer Section------*/
+ footer{
+    background: #111;
+    padding: 15px 23px;
+    color: #fff;
+    text-align: center;
+}
+footer span a{
+    color: rgb(111, 8, 89);
+    text-decoration: none;
+}
+footer span a:hover{
+    text-decoration: underline;
+}
+
+/*------Responsive------*/
+@media only screen and (max-width: 600px){
+    #header{
+        background-image: url(images/phone\ background.PNG);
+    }
+    .intro{
+        margin-top: 100%;
+        font-size: 16px;
+    }
+    .intro h1{
+        font-size: 30px;
+    }
+}
