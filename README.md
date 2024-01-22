@@ -17,6 +17,8 @@ This website does not require installation, it is only accessable online.
 ## Usage
 This website is for job-seekers to showcase their skills. It also allows potential employers to conatact the portfolio owner. You can send a message directly to the owner.
 
+![image](https://github.com/SikhoSwart/portfolio_project/assets/129541577/fa3c4e2e-383f-4ff3-896d-476b8ee8c2dd)
+
 
 ## Authors
 Sikholise Swartbooi
