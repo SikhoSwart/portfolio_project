@@ -12,6 +12,9 @@ I created this website using HTML and CSS. [Personal Portfolio Website](https://
 
 I deployed it using [netlify.com](https://www.netlify.com/)
 
+![image](https://github.com/SikhoSwart/portfolio_project/assets/129541577/205f1efd-782d-4bc1-94ee-d58810f85d0e)
+
+
 This website does not require installation, it is only accessable online.
 
 ## Usage
