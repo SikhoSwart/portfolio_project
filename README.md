@@ -23,5 +23,8 @@ This website is for job-seekers to showcase their skills. It also allows potenti
 ## Authors
 Sikholise Swartbooi
 
+## Contributors
+I created and designed the project on my own. But the feedback I got from my peerswhen they reviewed my project and the help I recieved from the  mentors helped me immensely.
+
 ## Related projects
 [AirBnB Clone](https://github.com/SikhoSwart/AirBnB_clone_v4): A web app. One of the projects at ALX.
