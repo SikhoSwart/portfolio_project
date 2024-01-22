@@ -12,6 +12,8 @@ I created this website using HTML and CSS. [Personal Portfolio Website](https://
 
 I deployed it using [netlify.com](https://www.netlify.com/)
 
+## Authors
+Sikholise Swartbooi
 
 ## Related projects
 [AirBnB Clone](https://github.com/SikhoSwart/AirBnB_clone_v4): A web app. One of the projects at ALX.
