@@ -7,6 +7,7 @@ This project is for the ALX software engineering programme.
 
 
 A portfolio website is a unique way to showcase your work and let others know about yourself. A portfolio website is useful for job-seekers and employers. It's basically a glorified resume. It's the perfect way to let employers know more about your skills and experience while they also get to know about who you are. 
-I created this website using HTML and CSS. 
+
+I created this website using HTML and CSS. [Personal Portfolio Website](https://sikholise.netlify.app)
 
 I deployed it using [netlify.com](https://www.netlify.com/)
